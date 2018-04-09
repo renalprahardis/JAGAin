@@ -1,5 +1,5 @@
 # JAGAin
-JagaIn adalah sistem monitoring kesehatan bayi dengan memantau suhu badan dan detak jantung bayi yang terhubung langsung ke smartphone orang tua.
+JAGAin adalah sistem monitoring kesehatan bayi dengan memantau suhu badan dan detak jantung bayi yang terhubung langsung ke smartphone orang tua.
 
 Komponen :
 
